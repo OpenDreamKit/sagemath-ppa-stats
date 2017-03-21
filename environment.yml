@@ -1,0 +1,6 @@
+name: sagemath-ppa-stats
+
+dependencies:
+  - python=2.7
+  - matplotlib
+  - launchpadlib
